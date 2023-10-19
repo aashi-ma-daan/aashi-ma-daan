@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @aashi-ma-daan
-- 👀 I’m Software Engineer
+- 👋 Hi, I’m Aashima Madaan
   
 
